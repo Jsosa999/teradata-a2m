@@ -1,0 +1,1 @@
+# teradata-a2m
